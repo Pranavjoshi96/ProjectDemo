@@ -1,0 +1,14 @@
+{
+  "register": [
+    {
+      "id": 1,
+      "fName":"Pranav",
+      "lName":"Joshi",
+      "uName":"Pranav96",
+      "phoneNo":"9823246164",
+      "email":"pranav@gmail.com",
+      "password":"123456789"
+    }
+  ]
+
+}

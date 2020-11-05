@@ -1,0 +1,26 @@
+@import "../bootstrap-4.5.3-dist/css/bootstrap.min.css";
+@import "../bootstrap-4.5.3-dist/js/bootstrap.min.js";
+
+$primary-color:red;
+
+body{
+    background-image: url("../images/blog.jpg");
+
+}
+label{
+    color: rgb(2, 2, 2);
+}
+.container{
+    margin-top: 160px;
+    /* margin-left: 600px; */
+}
+
+button {
+    margin-left: 150px;
+    padding: 0;
+}
+.text-danger{
+    color:$primary-color;
+    font-weight: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
